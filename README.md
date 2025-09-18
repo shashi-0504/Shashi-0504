@@ -9,12 +9,13 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Computer Science student  
-- 🔭 ServiceNow Certified System Administrator and Certified Application Developer  
-- 🌱 Skilled in Python, Java, SQL, Data Analytics, MS Power BI, and ServiceNow  
-- 👯 Virtual intern at Smartinternz - ServiceNow System Administrator  
-- 💬 Ask me about **Python | ServiceNow | Machine Learning | Software Development**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/shashikanth-rachakonda-839b5a259/) | [Email](mailto:rachakondashashi04@gmail.com)**  
+- 🎓 **Final-year Computer Science student**  
+- 🛠️ **ServiceNow Certified System Administrator (CSA)** and **Certified Application Developer (CAD)**  
+- 🌱 **Skilled in Python, Java, SQL, Data Analytics, MS Power BI, and ServiceNow**  
+- 💼 **Virtual Intern at Smartinternz - ServiceNow System Administrator**  
+- 💬 **Ask me about:** Python | ServiceNow | Machine Learning | Software Development  
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/shashikanth-rachakonda-839b5a259/) | [Email](mailto:rachakondashashi04@gmail.com)  
+
 
 ---
 
@@ -41,10 +42,10 @@
 ---
 
 ### 🏆 Achievements
-<h3>✅ ServiceNow Certified System Administrator (CSA)</h3>
-<h3>✅ ServiceNow Certified Application Developer (CAD)</h3>
-<h3>🥇 NPTEL Python for Data Science (Top 1%)</h3>
-<h3>🎓 Academic Topper in College</h3>
+- ✅ ServiceNow Certified System Administrator (CSA)  
+- ✅ ServiceNow Certified Application Developer (CAD)  
+- 🥇 NPTEL Python for Data Science (Top 1%)  
+- 🎓 Academic Topper in College  
 
 ---
 
