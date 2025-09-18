@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rachakonda Shashikanth</h1>
-<h3 align="center">A Passionate Computer Science Student & Aspiring Data Scientist</h3>
+<h3 align="center">A Passionate Computer Science Graduate  & Aspiring Software Engineer </h3>
 
 <p align="center">
-  📍 Kovvur, Andhra Pradesh, India <br>
+  📍 Kovvur, Andhra Pradesh, India 
   ✉️ <a href="mailto:rachakondashashi04@gmail.com">rachakondashashi04@gmail.com</a>
 </p>
 
